@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808667799505",
+    "project_id": "hrss-812b5",
+    "storage_bucket": "hrss-812b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808667799505:android:ddda7fa76d323199e3caf0",
+        "android_client_info": {
+          "package_name": "com.oo_mayr.shareandcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808667799505-vui1m9p15c0n5h6d3hpl1rcc94jg6ga6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPWmaSPgrsCzjB2pJ4FLs1Hgg0NOGmc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808667799505-vui1m9p15c0n5h6d3hpl1rcc94jg6ga6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
